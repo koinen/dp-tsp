@@ -55,6 +55,9 @@ Pastikan juga terminal/command prompt sudah dapat menjalankan perintah `cargo`.
     ```bash
     .path/to/release/dp-tsp.exe --file-path [file .txt dalam test]
     ```
+## Demo Program
+![screenshot](https://github.com/koinen/dp-tsp/main/blob/img/screenshot.png)
+
 
 ## Author
 
